@@ -1,4 +1,5 @@
 in branch "master" add demo file.
 
 
-in branch "other" update demo file.
+in branch "other" update the demo file.
+
